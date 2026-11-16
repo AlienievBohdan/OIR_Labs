@@ -1,0 +1,5 @@
+#define USERNAME "username"
+#define DEVICE_ID "device_id"
+#define DEVICE_CREDENTIAL "device_credential"
+#define SSID "Wokwi-GUEST"
+#define SSID_PASSWORD ""
